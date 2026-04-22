@@ -99,6 +99,3 @@ python app.py
 
 ---
 
-## 👨‍💻 Author
-
-**Anuram Pranav**
