@@ -14,7 +14,6 @@ Built using the YOLOv8 model, AI Guardian provides fast and accurate detection, 
 * Supports both live camera feed and static images
 * Fast and efficient processing
 * Deep learning-based threat identification
-* Scalable backend architecture
 * User-friendly interface
 
 ---
