@@ -32,10 +32,10 @@ Frontend → Backend → AI Model (YOLOv8)
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Python
-* **Frameworks/Libraries:** OpenCV, NumPy, PyTorch
-* **Model:** YOLOv8 (Ultralytics)
+* **Frontend:** HTML, CSS, JavaScript.
+* **Backend:** Python.
+* **Frameworks/Libraries:** OpenCV, NumPy, PyTorch.
+* **Model:** YOLOv8 (Ultralytics).
 
 ---
 
