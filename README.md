@@ -39,17 +39,6 @@ Frontend → Backend → AI Model (YOLOv8)
 
 ---
 
-## 📂 Project Structure
-
-```
-ai-guardian/
-│
-├── frontend/        # User interface
-├── backend/         # Server and processing logic
-├── yolov8n.pt       # Pre-trained model
-├── test_frame.jpg   # Sample input
-└── README.md
-```
 
 ---
 
