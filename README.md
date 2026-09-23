@@ -8,7 +8,7 @@ Built using the YOLOv8 model, AI Guardian provides fast and accurate detection, 
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 * Real-time object detection using YOLOv8
 * Supports both live camera feed and static images
@@ -18,7 +18,7 @@ Built using the YOLOv8 model, AI Guardian provides fast and accurate detection, 
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture.
 
 The system follows a modular architecture:
 
@@ -30,7 +30,7 @@ Frontend → Backend → AI Model (YOLOv8)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 * **Frontend:** HTML, CSS, JavaScript.
 * **Backend:** Python.
@@ -60,7 +60,7 @@ python app.py
 
 ---
 
-## ▶️ Usage
+## ▶️ Usage.
 
 1. Start the backend server
 2. Open the frontend in a browser
