@@ -1,6 +1,6 @@
 # 🔐 AI Guardian
 
-## 📌 Overview.
+## 📌 Overview
 
 AI Guardian is an advanced AI-powered surveillance and monitoring system designed to enhance safety through real-time object detection and analysis. The system leverages deep learning and computer vision techniques to process live or recorded video feeds and identify potential threats.
 
@@ -8,7 +8,7 @@ Built using the YOLOv8 model, AI Guardian provides fast and accurate detection, 
 
 ---
 
-## 🚀 Features.
+## 🚀 Features
 
 * Real-time object detection using YOLOv8
 * Supports both live camera feed and static images
@@ -18,7 +18,7 @@ Built using the YOLOv8 model, AI Guardian provides fast and accurate detection, 
 
 ---
 
-## 🏗️ System Architecture.
+## 🏗️ System Architecture
 
 The system follows a modular architecture:
 
